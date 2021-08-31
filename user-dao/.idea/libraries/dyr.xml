@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dyr">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/dyr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
